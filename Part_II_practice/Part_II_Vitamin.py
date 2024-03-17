@@ -1,4 +1,5 @@
 # everything is in the problem statement (read it carefully !)
+# if it's sorting the value from min -> max and letter from a-z then you don't have to multiply -1
 def show_(vit_chart : dict) :
     for k,v in vit_chart.items() :
         print(f"{k} {' '.join([str(j) for j in v])}")

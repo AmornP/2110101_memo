@@ -1,3 +1,4 @@
+# check for some junk string (print the line before doing anything)
 fn = input().strip()
 mode = ""
 morse_dict = {}

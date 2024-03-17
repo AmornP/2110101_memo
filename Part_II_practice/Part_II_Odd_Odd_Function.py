@@ -1,3 +1,4 @@
+# Again , read the problem statement carefully
 def is_odd(n):
     return n%2 == 1
 def has_odds(x):

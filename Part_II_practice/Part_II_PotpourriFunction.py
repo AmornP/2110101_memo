@@ -1,3 +1,5 @@
+# Be precise with the index and allow list of characters
+
 def convex_polygon_area(p):
     p.append(p[0])
     upper_part = 0
